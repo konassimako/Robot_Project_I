@@ -3,8 +3,6 @@
 Servo myServo;
 int value;
 int angle;
-//int switchState;
-//int const potensiometer = A0;
 
 void servoWrite( int angle) {
 
